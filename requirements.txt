@@ -1,0 +1,21 @@
+# Core CV Libraries
+opencv-python>=4.5.0
+tensorflow>=2.4.0
+
+# Image Processing
+Pillow>=8.0.0
+numpy>=1.19.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.60.0
+
+# Optional: Advanced CV
+# opencv-contrib-python>=4.5.0  # Extra OpenCV modules
+# scikit-image>=0.18.0  # Image processing
